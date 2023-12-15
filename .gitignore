@@ -1,0 +1,26 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled binaries and object files
+/bin/
+/obj/
+
+# Ignore database migration files
+/Migrations/
+
+# Ignore static files generated during build
+/wwwroot/
+
+# Ignore development-specific configuration files
+/appsettings.Development.json
+/appsettings.json
+
+# Ignore database files
+/MvcMovie.Data.db
+/MvcMovie.db
+
+# Ignore user-specific and solution state files
+*.suo
+*.user
+*.sln.docstates
+

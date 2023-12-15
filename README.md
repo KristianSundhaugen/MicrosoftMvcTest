@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASP.NET Core MVC Learning Journey
 
 Hey there! 👋 Welcome to my ASP.NET Core MVC Learning Journey! This repository is my companion as I embark on the adventure of building my first ASP.NET Core MVC app, following the fantastic tutorial provided by Microsoft.
@@ -26,3 +27,6 @@ Here's how you can join me on this journey:
 
 ## How to Use
 - Follow along with me on the tutorial at [Microsoft Docs](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio).
+=======
+# MvcMovie
+>>>>>>> f41aa01 (Initial commit)
